@@ -5,11 +5,11 @@ Welcome to our project for **_AAI-501 Intro to Artificial Intelligence_**, a col
 
 ## <span style="color:green;">**Project Overview**</span>
 
-Real estate pricing is influenced by a multitude of factors, including location, property characteristics, economic conditions, and market trends. Our project aims to address the complexity of this domain by developing a classification model that can accurately categorize housing listings into distinct pricing tiers. Such a model will facilitate more informed decision-making for both buyers and sellers, helping them navigate the market with greater insight.
+Real estate pricing is influenced by a multitude of factors, including location, property characteristics, economic conditions, and market trends. Our project seeks to demystify the complexities of this domain by developing a classification model that accurately categorizes housing listings into distinct pricing tiers. This model aims to empower both buyers and sellers with the insights needed to make more informed decisions, thus facilitating a better understanding of the market.
 
-To achieve our goal, we utilize Python and Jupyter Notebooks as our primary tools for processing, analyzing, and modeling real estate data. This technical framework allows us to efficiently explore a variety of classification algorithms, including Logistic Regression, Decision Trees, Naive Bayes, Deep Learning Neural Networks, and Gradient Boosting. Our approach is designed to leverage the strengths of these algorithms to predict pricing tiers based on an array of property features, thus tackling the multifaceted challenge of real estate pricing with precision and nuance.
+To accomplish our objectives, we employ Python and Jupyter Notebooks, our primary tools for processing, analyzing, and modeling the data. This setup enables us to efficiently explore a variety of classification algorithms—such as Logistic Regression, Decision Trees, Naive Bayes, Deep Learning Neural Networks, and Gradient Boosting. By leveraging the strengths of these algorithms, we aim to predict pricing tiers based on a wide range of property features, addressing the complex challenge of real estate pricing with precision and nuance.
 
-This consolidated overview succinctly captures the essence of your project, outlining both the problem space and the methodological approach your team is taking.
+At its core, our project is about making the real estate market more accessible and understandable. We're building a model that sorts homes into different price categories, helping everyone from first-time buyers to seasoned investors make better decisions. By analyzing data on features like size and location, we're uncovering patterns that can predict a home's price range, simplifying the intricate world of real estate for everyone involved.
 
 ## Technologies Used
 
