@@ -8,6 +8,9 @@ The real estate market is a tapestry woven from various factors — location, pr
 
 Utilizing Python and Jupyter Notebooks allows us to efficiently process and model data, exploring algorithms from Logistic Regression to Gradient Boosting. Our goal is to illuminate patterns within the real estate realm, making the market's intricacies navigable for all.
 
+Our data is sourced from this Kaggle dataset, offering a comprehensive view of the current real estate landscape.
+### **<a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data?select=realtor-data.zip.csv">Dataset Website**
+
 ## **Classification Criteria**
 
 In 2024's diverse market landscape, we've outlined four pricing tiers to guide our classification:
@@ -36,11 +39,6 @@ To embark on this exploratory journey with us:
 3. Clone our project repository to your machine.
 4. Navigate to the project directory and launch Jupyter Notebook by executing Jupyter Notebook.
 5. Open the .ipynb files to dive into our analysis and models.
-
-Our data is sourced from this Kaggle dataset, offering a comprehensive view of the current real estate landscape.
-### **<a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data?select=realtor-data.zip.csv">Dataset Website**
-
-### **Presentation Video**: TBD
 
 ### **Algorithms to Investigate**
 
@@ -86,6 +84,16 @@ We aim to provide a reliable classification of real estate into pricing tiers us
 - Sharma, H., Harsora, H., & Ogunleye, B. (2024). An optimal house price prediction algorithm: XGBoost. *Analytics*, 3(1), 30-45. https://doi.org/10.3390/analytics3010003
 - Sokolova, M., & Lapalme, G. (2009). A systematic analysis of performance measures for classification tasks. *Information Processing & Management*, 45(4), 427-437. https://www.sciencedirect.com/science/article/pii/S0306457308000609
 - Yu, H., & Wu, J. (2016). Real estate price prediction with regression and classification. Retrieved from https://cs229.stanford.edu/proj2016/report/WuYu_HousingPrice_report.pdf
+
+### **Project Presentation** 
+
+To provide a comprehensive overview of our research, findings, and the journey of our project, we have recorded a detailed presentation. This presentation covers our methodologies, data analysis, key insights, and the conclusions we've drawn from our exploration of real estate pricing tiers using machine learning algorithms.
+
+Watch our presentation to see our project come to life, understand our process, and get insights into the real estate market through our analysis.
+
+### **<a href="https://www.youtube.com/watch?v=video_id" target="_blank">Watch the Presentation on YouTube</a>**
+
+<I>Note: The link will be updated once our presentation is live on YouTube.</i>
 
 ## **Acknowledgments**
 
