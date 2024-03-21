@@ -11,6 +11,16 @@ To accomplish our objectives, we employ Python and Jupyter Notebooks, our primar
 
 At its core, our project is about making the real estate market more accessible and understandable. We're building a model that sorts homes into different price categories, helping everyone from first-time buyers to seasoned investors make better decisions. By analyzing data on features like size and location, we're uncovering patterns that can predict a home's price range, simplifying the intricate world of real estate for everyone involved.
 
+## **Classification Criteria**
+
+In analyzing the 2024 real estate market, we've identified four key pricing tiers to classify residential properties, reflecting a wide range of values and characteristics:
+
+Budget: Homes up to $250,000, suitable for first-time buyers or as investment opportunities requiring renovation.
+Mid-Range: Properties from $250,001 to $500,000, typically modern single-family homes in desirable neighborhoods.
+High-End: Luxurious properties between $500,001 and $1,000,000, featuring premium amenities and locations.
+Luxury: Exclusive homes over $1,000,000, offering top-tier features and unparalleled quality.
+These tiers were determined by considering local market dynamics, segmentation relevance, and detailed data analysis, ensuring our model aligns with current real estate values and trends. This approach allows us to create a classification system that is both meaningful and adaptable, providing a clear framework for our analysis and the development of our classification model.
+
 ## Technologies Used
 
 This project is implemented using the following technologies:
