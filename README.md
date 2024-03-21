@@ -25,6 +25,7 @@ This project is implemented using the following technologies:
 * Python: Our cornerstone for data manipulation and analysis.
 * Jupyter Notebook: For interactive modeling and visualization.
 * Classification Algorithms: Including Logistic Regression, Decision Trees, and more, to finely tune our predictions.
+* Powerpoint: Recording our presentation.
 
 ## Getting Started
 
