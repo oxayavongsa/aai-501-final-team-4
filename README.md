@@ -1,46 +1,45 @@
-# aai-501-final-team-4
-# <span style="color:blue;">**Real Estate Data Classification Project**</span>
+# AAI-501 Final Project: Real Estate Data Classification
 
-Welcome to our project for **_AAI-501 Intro to Artificial Intelligence_**, a collaborative effort by Team 4: **Laxmi, Daniel, & Thai**. We aim to explore various classification algorithms to analyze a Real Estate dataset with Python in a Jupyter Notebook environment.
+Welcome to our AAI-501 Intro to Artificial Intelligence project. We're delving into the complexities of real estate pricing, aiming to make this intricate market more accessible to buyers, sellers, and enthusiasts alike. Our journey uses Python and Jupyter Notebooks to sift through a Real Estate dataset, exploring various classification algorithms to predict pricing tiers accurately.
 
 ## <span style="color:green;">**Project Overview**</span>
 
-Real estate pricing is influenced by a multitude of factors, including location, property characteristics, economic conditions, and market trends. Our project seeks to demystify the complexities of this domain by developing a classification model that accurately categorizes housing listings into distinct pricing tiers. This model aims to empower both buyers and sellers with the insights needed to make more informed decisions, thus facilitating a better understanding of the market.
+The real estate market is a tapestry woven from various factors — location, property features, economic conditions, and more. Our mission? To unravel this complexity by creating a model that classifies properties into distinct pricing tiers. This tool is designed to empower decision-making, offering insights that pave the way for a deeper market understanding.
 
-To accomplish our objectives, we employ Python and Jupyter Notebooks, our primary tools for processing, analyzing, and modeling the data. This setup enables us to efficiently explore a variety of classification algorithms—such as Logistic Regression, Decision Trees, Naive Bayes, Deep Learning Neural Networks, and Gradient Boosting. By leveraging the strengths of these algorithms, we aim to predict pricing tiers based on a wide range of property features, addressing the complex challenge of real estate pricing with precision and nuance.
-
-At its core, our project is about making the real estate market more accessible and understandable. We're building a model that sorts homes into different price categories, helping everyone from first-time buyers to seasoned investors make better decisions. By analyzing data on features like size and location, we're uncovering patterns that can predict a home's price range, simplifying the intricate world of real estate for everyone involved.
+Utilizing Python and Jupyter Notebooks allows us to efficiently process and model data, exploring algorithms from Logistic Regression to Gradient Boosting. Our goal is to illuminate patterns within the real estate realm, making the market's intricacies navigable for all.
 
 ## **Classification Criteria**
 
-In analyzing the 2024 real estate market, we've identified four key pricing tiers to classify residential properties, reflecting a wide range of values and characteristics:
+In 2024's diverse market landscape, we've outlined four pricing tiers to guide our classification:
 
-Budget: Homes up to $250,000, suitable for first-time buyers or as investment opportunities requiring renovation.
-Mid-Range: Properties from $250,001 to $500,000, typically modern single-family homes in desirable neighborhoods.
-High-End: Luxurious properties between $500,001 and $1,000,000, featuring premium amenities and locations.
-Luxury: Exclusive homes over $1,000,000, offering top-tier features and unparalleled quality.
-These tiers were determined by considering local market dynamics, segmentation relevance, and detailed data analysis, ensuring our model aligns with current real estate values and trends. This approach allows us to create a classification system that is both meaningful and adaptable, providing a clear framework for our analysis and the development of our classification model.
+* Budget: Up to $250,000 - Ideal for first-time buyers or renovators.
+* Mid-Range: $250,001 to $500,000 - Modern homes in sought-after areas.
+* High-End: $500,001 to $1,000,000 - Luxurious properties with top-tier amenities.
+* Luxury: Over $1,000,000 - Exclusive estates with unparalleled quality.
+
+These tiers, shaped by market dynamics and detailed analysis, form the backbone of our model, ensuring relevance and adaptability in our market predictions.
 
 ## Technologies Used
 
 This project is implemented using the following technologies:
-- **Python**: The primary programming language used for data preprocessing, analysis, and modeling.
-- **Jupyter Notebook**: An interactive computing environment that enables us to create and share documents that contain live code, equations, visualizations, and narrative text.
-- Various Classification Algorithms: To address the problem statement, we explore algorithms like Logistic Regression, Decision Trees, Naive Bayes, Deep Learning Neural Networks, and Gradient Boosting among others.
+* Python: Our cornerstone for data manipulation and analysis.
+* Jupyter Notebook: For interactive modeling and visualization.
+* Classification Algorithms: Including Logistic Regression, Decision Trees, and more, to finely tune our predictions.
 
-## How to Use
+## Getting Started
 
-To run our project, follow these steps:
+To embark on this exploratory journey with us:
 
-1. Ensure you have **Python** installed on your machine. Visit the [official Python website](https://www.python.org/downloads/) for download and installation instructions.
-2. Install **Jupyter Notebook** by running `pip install notebook` in your terminal or command prompt.
-3. Clone our project repository to your local machine.
-4. Navigate to the project directory and start the Jupyter Notebook server by running `Jupyter Notebook` in your terminal.
-5. Open the `.ipynb` files to view our notebooks, containing the data analysis, exploration, and machine learning models.
+1. Ensure Python is installed on your device (official Python website).
+2. Install Jupyter Notebook via terminal or command prompt with pip install notebook.
+3. Clone our project repository to your machine.
+4. Navigate to the project directory and launch Jupyter Notebook by executing Jupyter Notebook.
+5. Open the .ipynb files to dive into our analysis and models.
 
-For detailed instructions on setting up Python and Jupyter, refer to the official documentation.
+Our data is sourced from this Kaggle dataset, offering a comprehensive view of the current real estate landscape.
+### **<a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data?select=realtor-data.zip.csv">Dataset Website**
 
-### **Dataset Website**: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data?select=realtor-data.zip.csv
+### **Presentation Video**: TBD
 
 ### **Algorithms to Investigate**
 
@@ -54,7 +53,6 @@ We plan to explore several classification algorithms, including:
 ## **Problem Statement**
 
 **Pricing Tier Classification:** Create a classification model to categorize housing listings into pricing tiers based on features such as the number of bedrooms, bathrooms, lot size, living space size, and location. The goal is to classify properties into different price ranges, enabling buyers and sellers to identify suitable options within their budget constraints and market expectations. 
-
 
 ## **System Intention**
 
@@ -87,5 +85,12 @@ We aim to provide a reliable classification of real estate into pricing tiers us
 - Sharma, H., Harsora, H., & Ogunleye, B. (2024). An optimal house price prediction algorithm: XGBoost. *Analytics*, 3(1), 30-45. https://doi.org/10.3390/analytics3010003
 - Sokolova, M., & Lapalme, G. (2009). A systematic analysis of performance measures for classification tasks. *Information Processing & Management*, 45(4), 427-437. https://www.sciencedirect.com/science/article/pii/S0306457308000609
 - Yu, H., & Wu, J. (2016). Real estate price prediction with regression and classification. Retrieved from https://cs229.stanford.edu/proj2016/report/WuYu_HousingPrice_report.pdf
+
+## **Acknowledgments**
+
+Our heartfelt thanks to all contributors and advisors who have offered their insights and support throughout this project.
+
+## **Contact Us**
+Got questions or suggestions? Reach out to us at https://github.com/oxayavongsa/aai-501-final-team-4.
 
 <!-- Include more sections as needed -->
