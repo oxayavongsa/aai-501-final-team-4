@@ -104,6 +104,7 @@ Our heartfelt thanks to all contributors and advisors who have offered their ins
 This project is licensed under ... (will be added by Laxmi)
 
 ## **Contact Us**
-Got questions or suggestions? Reach out to us at https://github.com/oxayavongsa/aai-501-final-team-4.
+Got questions or suggestions? Reach out to us at **<a href="https://github.com/oxayavongsa/aai-501-final-team-4">GitHub**
+
 
 <!-- Include more sections as needed -->
