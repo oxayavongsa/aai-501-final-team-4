@@ -11,18 +11,19 @@ Utilizing Python and Jupyter Notebooks allows us to efficiently process and mode
 Our data is sourced from this Kaggle dataset, offering a comprehensive view of the current real estate landscape.
 ### **<a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data?select=realtor-data.zip.csv">Dataset Website**
 
-## **Classification Criteria**
+### **Classification Criteria for Residential Properties:**
 
-In 2024's diverse market landscape, we've outlined four pricing tiers to guide our classification:
+* Starter Homes (Tier 1): Affordable options priced below $200,000, ideal for first-time homebuyers or those on a budget. These properties provide entry-level opportunities in various regions or suburban areas.
 
-* Budget: Up to $250,000 - Ideal for first-time buyers or renovators.
-* Mid-Range: $250,001 to $500,000 - Modern homes in sought-after areas.
-* High-End: $500,001 to $1,000,000 - Luxurious properties with top-tier amenities.
-* Luxury: Over $1,000,000 - Exclusive estates with unparalleled quality.
+* Family-Friendly Homes (Tier 2): Mid-range properties priced between $200,001 and $400,000, offering ample space and amenities suitable for families. This tier includes single-family homes, townhouses, or condos with multiple bedrooms and family-oriented features.
 
-These tiers, shaped by market dynamics and detailed analysis, form the backbone of our model, ensuring relevance and adaptability in our market predictions.
+* Executive Properties (Tier 3): Upscale living options priced between $400,001 and $650,000, featuring modern amenities and convenient access to urban facilities. Executive homes in desirable neighborhoods, upscale condos, or luxury townhouses cater to discerning buyers seeking premium features.
 
-## Technologies Used
+* Luxury Estates (Tier 4): High-end properties priced above $650,000, offering expansive living spaces, premium finishes, and exclusive locations. Luxury estates provide affluent buyers with amenities such as swimming pools, private gyms, and meticulously landscaped grounds.
+
+<i>These pricing tiers help categorize residential properties based on their price range and features, providing valuable insights for buyers and sellers in the real estate market.These tiers, shaped by market dynamics and detailed analysis, form the backbone of our model, ensuring relevance and adaptability in our market predictions.</i>
+
+## **Technologies Used**
 
 This project is implemented using the following technologies:
 * Python: Our cornerstone for data manipulation and analysis.
@@ -30,7 +31,7 @@ This project is implemented using the following technologies:
 * Classification Algorithms: Including Logistic Regression, Decision Trees, and more, to finely tune our predictions.
 * Powerpoint: Recording our presentation.
 
-## Getting Started
+## **Getting Started**
 
 To embark on this exploratory journey with us:
 
@@ -40,7 +41,7 @@ To embark on this exploratory journey with us:
 4. Navigate to the project directory and launch Jupyter Notebook by executing Jupyter Notebook.
 5. Open the .ipynb files to dive into our analysis and models.
 
-### **Algorithms to Investigate**
+## **Algorithms to Investigate**
 
 We plan to explore several classification algorithms, including:
 - **Logistic Regression**
@@ -49,11 +50,11 @@ We plan to explore several classification algorithms, including:
 - **Deep Learning Neural Networks**
 - **Gradient Boosting**
 
-## **Problem Statement**
+### **Problem Statement**
 
 **Pricing Tier Classification:** Create a classification model to categorize housing listings into pricing tiers based on features such as the number of bedrooms, bathrooms, lot size, living space size, and location. The goal is to classify properties into different price ranges, enabling buyers and sellers to identify suitable options within their budget constraints and market expectations. 
 
-## **System Intention**
+### **System Intention**
 
 The project involves:
 - Data cleaning and preparation
@@ -71,11 +72,11 @@ The project involves:
 - **Computational Resources**: Ensuring efficient training and evaluation.
 - **Ethical and Fairness Considerations**: Ensuring the model's fairness and transparency.
 
-## **Expected Behaviors and Problem Handling**
+### **Expected Behaviors and Problem Handling**
 
 We aim to provide a reliable classification of real estate into pricing tiers using advanced algorithms like decision trees, random forests, and gradient boosting, ensuring accuracy through rigorous data preprocessing and model evaluation.
 
-## Reference List
+## **Reference List**
 
 - Choy, L. H. T., & Ho, W. K. O. (2023). The use of machine learning in real estate research. *Land*, 12(4), 740. https://doi.org/10.3390/land12040740
 - Mir, M. (2020, July 21). House price prediction using deep learning. *Towards Data Science*. Retrieved from https://towardsdatascience.com/house-prices-prediction-using-deep-learning-dea265cc3154
@@ -85,13 +86,13 @@ We aim to provide a reliable classification of real estate into pricing tiers us
 - Sokolova, M., & Lapalme, G. (2009). A systematic analysis of performance measures for classification tasks. *Information Processing & Management*, 45(4), 427-437. https://www.sciencedirect.com/science/article/pii/S0306457308000609
 - Yu, H., & Wu, J. (2016). Real estate price prediction with regression and classification. Retrieved from https://cs229.stanford.edu/proj2016/report/WuYu_HousingPrice_report.pdf
 
-### **Project Presentation** 
+## **Project Presentation**
 
 To provide a comprehensive overview of our research, findings, and the journey of our project, we have recorded a detailed presentation. This presentation covers our methodologies, data analysis, key insights, and the conclusions we've drawn from our exploration of real estate pricing tiers using machine learning algorithms.
 
 Watch our presentation to see our project come to life, understand our process, and get insights into the real estate market through our analysis.
 
-### **<a href="https://www.youtube.com/watch?v=video_id" target="_blank">Watch the Presentation on YouTube</a>**
+### <a href="https://www.youtube.com/watch?v=video_id" target="_blank">**Watch the Presentation on YouTube**</a>
 
 <I>Note: The link will be updated once our presentation is live on YouTube.</i>
 
@@ -99,7 +100,11 @@ Watch our presentation to see our project come to life, understand our process, 
 
 Our heartfelt thanks to all contributors and advisors who have offered their insights and support throughout this project.
 
+## License
+This project is licensed under ... (will be added by Laxmi)
+
 ## **Contact Us**
-Got questions or suggestions? Reach out to us at https://github.com/oxayavongsa/aai-501-final-team-4.
+Got questions or suggestions? Reach out to us at **<a href="https://github.com/oxayavongsa/aai-501-final-team-4">GitHub**
+
 
 <!-- Include more sections as needed -->
