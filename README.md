@@ -13,13 +13,13 @@ Our data is sourced from this Kaggle dataset, offering a comprehensive view of t
 
 ### **Classification Criteria for Residential Properties:**
 
-* Starter Homes (Tier 1): Affordable options priced below $200,000, ideal for first-time homebuyers or those on a budget. These properties provide entry-level opportunities in various regions or suburban areas.
+* Starter Homes (Tier 1): Affordable options priced below $300,000, ideal for first-time homebuyers or those on a budget. These properties provide entry-level opportunities in various regions or suburban areas.
 
-* Family-Friendly Homes (Tier 2): Mid-range properties priced between $200,001 and $400,000, offering ample space and amenities suitable for families. This tier includes single-family homes, townhouses, or condos with multiple bedrooms and family-oriented features.
+* Family-Friendly Homes (Tier 2): Mid-range properties priced between $300,001 and $500,000, offering ample space and amenities suitable for families. This tier includes single-family homes, townhouses, or condos with multiple bedrooms and family-oriented features.
 
-* Executive Properties (Tier 3): Upscale living options priced between $400,001 and $650,000, featuring modern amenities and convenient access to urban facilities. Executive homes in desirable neighborhoods, upscale condos, or luxury townhouses cater to discerning buyers seeking premium features.
+* Executive Properties (Tier 3): Upscale living options priced between $500,001 and $1,000,000, featuring modern amenities and convenient access to urban facilities. Executive homes in desirable neighborhoods, upscale condos, or luxury townhouses cater to discerning buyers seeking premium features.
 
-* Luxury Estates (Tier 4): High-end properties priced above $650,000, offering expansive living spaces, premium finishes, and exclusive locations. Luxury estates provide affluent buyers with amenities such as swimming pools, private gyms, and meticulously landscaped grounds.
+* Luxury Estates (Tier 4): High-end properties priced above $1,000,000, offering expansive living spaces, premium finishes, and exclusive locations. Luxury estates provide affluent buyers with amenities such as swimming pools, private gyms, and meticulously landscaped grounds.
 
 <i>These pricing tiers help categorize residential properties based on their price range and features, providing valuable insights for buyers and sellers in the real estate market.These tiers, shaped by market dynamics and detailed analysis, form the backbone of our model, ensuring relevance and adaptability in our market predictions.</i>
 
@@ -101,7 +101,9 @@ Watch our presentation to see our project come to life, understand our process, 
 Our heartfelt thanks to all contributors and advisors who have offered their insights and support throughout this project.
 
 ## License
-This project is licensed under ... (will be added by Laxmi)
+Data was collected from -
+
+https://www.realtor.com/ - A real estate listing website operated by the News Corp subsidiary Move, Inc. and based in Santa Clara, California. It is the second most visited real estate listing website in the United States as of 2021, with over 100 million monthly active users.
 
 ## **Contact Us**
 Got questions or suggestions? Reach out to us at **<a href="https://github.com/oxayavongsa/aai-501-final-team-4">GitHub**
