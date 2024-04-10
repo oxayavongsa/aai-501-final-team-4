@@ -45,7 +45,8 @@ To embark on this exploratory journey with us:
 
 We plan to explore several classification algorithms, including:
 - **Logistic Regression**
-- **Decision Tree**
+- **KNN**
+- **Random Forest**
 - **Naive Bayes**
 - **Deep Learning Neural Networks**
 - **Gradient Boosting**
