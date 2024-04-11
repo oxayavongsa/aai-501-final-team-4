@@ -43,9 +43,9 @@ To embark on this exploratory journey with us:
 
 ## **Algorithms to Investigate**
 
-We plan to explore several classification algorithms, including:
+We plan to explore multiple classification algorithms, including:
 - **Logistic Regression**
-- **KNN**
+- **K-Nearest Neighbors (KNN)**
 - **Random Forest**
 - **Naive Bayes**
 - **Deep Learning Neural Networks**
@@ -75,7 +75,7 @@ The project involves:
 
 ### **Expected Behaviors and Problem Handling**
 
-We aim to provide a reliable classification of real estate into pricing tiers using advanced algorithms like decision trees, random forests, and gradient boosting, ensuring accuracy through rigorous data preprocessing and model evaluation.
+We aim to provide a reliable classification of real estate into pricing tiers using advanced algorithms like random forests, K-Nearest Neighbors (KNN), and gradient boosting, ensuring accuracy through rigorous data preprocessing and model evaluation.
 
 ## **Reference List**
 
@@ -101,8 +101,7 @@ Watch our presentation to see our project come to life, understand our process, 
 
 Our heartfelt thanks to all contributors and advisors who have offered their insights and support throughout this project.
 
-## License
-Data was collected from -
+## Kaggle collected data from -
 
 https://www.realtor.com/ - A real estate listing website operated by the News Corp subsidiary Move, Inc. and based in Santa Clara, California. It is the second most visited real estate listing website in the United States as of 2021, with over 100 million monthly active users.
 
