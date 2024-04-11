@@ -79,13 +79,13 @@ We aim to provide a reliable classification of real estate into pricing tiers us
 
 ## **Reference List**
 
-- Choy, L. H. T., & Ho, W. K. O. (2023). The use of machine learning in real estate research. *Land*, 12(4), 740. https://doi.org/10.3390/land12040740
-- Mir, M. (2020, July 21). House price prediction using deep learning. *Towards Data Science*. Retrieved from https://towardsdatascience.com/house-prices-prediction-using-deep-learning-dea265cc3154
-- Quinlan, J. R. (1986). Induction of decision trees. *Machine Learning*, 1(1), 81-106.
-- Shakib, A. S. (2024). USA real estate dataset. *Kaggle*. Retrieved March 15, 2024, from https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data?select=realtor-data.zip.csv
-- Sharma, H., Harsora, H., & Ogunleye, B. (2024). An optimal house price prediction algorithm: XGBoost. *Analytics*, 3(1), 30-45. https://doi.org/10.3390/analytics3010003
-- Sokolova, M., & Lapalme, G. (2009). A systematic analysis of performance measures for classification tasks. *Information Processing & Management*, 45(4), 427-437. https://www.sciencedirect.com/science/article/pii/S0306457308000609
-- Yu, H., & Wu, J. (2016). Real estate price prediction with regression and classification. Retrieved from https://cs229.stanford.edu/proj2016/report/WuYu_HousingPrice_report.pdf
+- Marx, S. (2024, April 2). Majority of older homeowners plan to stay in their home as they age: Redfin. HousingWire. Retrieved April 6, 2024, from https://www.housingwire.com/articles/majority-of-older-homeowners-plan-to-stay-in-their-home-as-they-age-redfin/#:~:text=Furthermore%2C%20nearly%2080%25%20of%20boomers,bought%20a%20new%20home%20today
+- Rothstein, R., Basile, C., & Jennings, C. (2024, April 2). Housing Market Predictions For 2024: When Will Home Prices Be Affordable Again? Forbes Advisor. Retrieved April 3, 24, from https://www.forbes.com/advisor/mortgages/real-estate/housing-market-predictions/
+- Shakib, A. S. (2024). USA Real Estate Dataset. Kaggle. Retrieved March 31, 2024, from https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data?select=realtor-data.zip.csv
+- Sweet, J. (2020, October 23). History of the housing market over the last 50 years. Stacker. Retrieved April 3, 2024, from https://stacker.com/money/history-housing-market-over-last-50-years
+- “Typical U.S. Home Values by State." (2024). Datawrapper. Retrieved April 6, 2024, from https://www.datawrapper.de/_/UjLtA/
+- Yu, H., & Wu, J. (2016). Real Estate Price Prediction with Regression and Classification. In CS 229 Autumn 2016 Project, CS 229 Autumn 2016 Project Final Report. https://cs229.stanford.edu/proj2016/report/WuYu_HousingPrice_report.pdf
+- Banjara, B. (2023, November 5). Guide to Build Real Estate Price Prediction Model using ML algorithms. Medium. https://medium.com/@rubiks1200/guide-to-build-real-estate-price-prediction-model-using-ml-algorithms-254b441057bb
 
 ## **Project Presentation**
 
